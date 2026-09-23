@@ -1,7 +1,7 @@
 # Alexandre Ollivier
 
 **Senior Full-Stack Engineer / Tech Lead — Agentic & AI Engineering**
-10+ years, former VP Engineering · Freelance, remote-first (Paris / Europe) · **Available from October 2026** · [atelier-agentic.com](https://atelier-agentic.com) · [LinkedIn](https://www.linkedin.com/in/alexandre-ollivier-64b925285)
+10+ years, former VP Engineering · Freelance, remote-first (Paris / Europe) · **Available from October 2026** · [alexandre-ollivier.com](https://alexandre-ollivier.com) · [atelier-agentic.com](https://atelier-agentic.com) · [LinkedIn](https://www.linkedin.com/in/alexandre-ollivier-64b925285)
 
 I build production software with AI coding agents (Claude Code) **without giving up engineering discipline**:
 restricted permissions, spec-driven development, TDD, E2E tests, and a human review on every line that ships.
@@ -19,7 +19,6 @@ restricted permissions, spec-driven development, TDD, E2E tests, and a human rev
 | **agent-cassettes** · _coming soon_ | Record & replay Claude Code sessions for deterministic, token-free E2E tests of agentic apps |
 | **parallel-agents-worktrees** · _coming soon_ | Run N agents in parallel: git worktrees + per-branch Postgres + isolated ports + tmux |
 | **fullstack-agentic-template** · _coming soon_ | TanStack Start · Hono · Drizzle · Postgres · Bun, agent-ready, deploys to Railway / Cloudflare |
-| [**interactive-cv**](https://github.com/aoll/interactive-cv) | My CV as a conversational interface |
 
 ## Stack
 
